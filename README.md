@@ -2,5 +2,5 @@
 description: StandardDAO.finance
 ---
 
-# Whitepaper
+# 📃 StandardDAO.finance
 
