@@ -15,7 +15,7 @@
 
 ## Whitepaper
 
-* [Standard Digital Assets Whitepaper](whitepaper/standard-digital-assets-whitepaper.md)
+* [Standard Digital Assets](whitepaper/standard-digital-assets.md)
 
 ## Ecosystem Growth
 
