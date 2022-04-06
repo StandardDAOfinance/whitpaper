@@ -16,6 +16,8 @@
 ## Whitepaper
 
 * [Standard Digital Assets](whitepaper/standard-digital-assets.md)
+* [Page 1](whitepaper/page-1/README.md)
+  * [Supercharging Community Based Investing to Elevate Humanity](whitepaper/page-1/supercharging-community-based-investing-to-elevate-humanity.md)
 
 ## Ecosystem Growth
 

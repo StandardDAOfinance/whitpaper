@@ -2,7 +2,7 @@
 description: The Digital Store of Value Currency Backed by Standard Assets
 ---
 
-# Standard Digital Assets Whitepaper
+# Standard Digital Assets
 
 ## Abstract
 
@@ -35,7 +35,7 @@ In a traditional crypto bear market we see the majority assets plummet, some mor
 
 **S\&P 500 (Red) vs. Gold (Yellow)**
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 ### Top asset in a given vertical by utility and/or market cap <a href="#_yu74j56iyenk" id="_yu74j56iyenk"></a>
 

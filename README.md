@@ -12,13 +12,13 @@ Standard is the first diversified, decentralized treasury that holds [Standard A
 
 In August 15, 1971, President Richard Nixon took the US dollar off the “Gold Standard” with the intent of “...protect(ing) the position of the American dollar as a pillar of monetary stability around the world…”. Since then we have seen the value of the dollar plunge at an exponential rate compared to previous decades with unforeseen social and financial crises correlated to this event.
 
-![](.gitbook/assets/0)
+![](<.gitbook/assets/0 (1)>)
 
 ![](.gitbook/assets/1)
 
-![](.gitbook/assets/2)
+![](<.gitbook/assets/2 (1)>)
 
-![](.gitbook/assets/3)
+![](<.gitbook/assets/3 (1)>)
 
 ### Bringing Back the Gold Standard (and more)
 
