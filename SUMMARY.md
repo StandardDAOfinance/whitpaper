@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Diving into Standard Protocol](diving-into-standard-protocol.md)
-* [Partnerships & Roadmap](partnerships-and-roadmap.md)
+* [Partnerships, DAO, Roadmap](partnerships-dao-roadmap.md)
 * [FAQs](faqs.md)
 
 ## Protocol
