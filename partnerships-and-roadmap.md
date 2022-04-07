@@ -1,7 +1,5 @@
 # Partnerships, DAO, Roadmap
 
-## ****
-
 ## **Partnerships** <a href="#_qrm76cfhw90o" id="_qrm76cfhw90o"></a>
 
 Intrinsic to the core structure of Standard is its ability to integrate with and incentivise partnerships with other projects. Given the nature and vision of Standard, we see Standard and the SDA token as the center of an entire ecosystem of development. It does this because it is a protocol that brings in the most robust assets across all major markets (eventually) solidifying security, trust, and a foundation for which to build upon for years to come. At the start we see these partnerships growing within the blockchain ecosystem but then expanding across traditional and retail markets as we build upon the public goods sectors providing robust ecosystems for humans to operate.

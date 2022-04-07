@@ -1,36 +1,35 @@
 # Diving into Standard Protocol
 
-## What is Swapping?&#x20;
+### **What is Standard?** <a href="#_xbrav6clw9y1" id="_xbrav6clw9y1"></a>
 
-Swapping is the secondary value accrual strategy of Standard. It allows Standard to acquire its own [liquidity](https://docs.standarddao.finance/protocol/definitions#liquidity-swaps) and other [reserve assets](https://docs.standarddao.finance/protocol/definitions#reserve-swaps) such as DAI or PAXG by selling SDA tokens at a discount in exchange for these assets. The protocol quotes the swapper with terms such as the swap price, the amount of SDA tokens entitled to the swapper, and the vesting term. A portion of the swappers tokens will be staked each day over the vesting period and at the end of the term, the full amount will be claimable as sSDA. The combination of swapping and staking compounds rewards for swappers enabling higher yields.
+Standard is the first diversified, community driven, decentralized treasury serving a mandate towards community driven impact. Assets held in the Standard treasury are Standard Assets, built on the fundamental principles of the [Standard Digital Asset](https://docs.standarddao.finance/whitepaper/standard-digital-assets) framework. The key differentiator with Standard is that the assets taken in are put to work in unique ways that are largely yet to be seen in the crypto market today in that they serve the fundamental growth and development of communities and individuals driven by Standard members.
 
-Swapping is an active, short-term strategy based on the discount the protocol is providing to the market on any one swap. Users swapping their assets for sSDA may run the risk of a drop in the market value of the redeemable sSDA at the end of the 5 day period. This makes swapping a more active investment strategy that has to be monitored constantly in order to be more profitable as compared to staking only.
+### **Operating principles** <a href="#_kfh2on5n7sn0" id="_kfh2on5n7sn0"></a>
 
-Swapping allows Standard to accumulate its own [PCV ](https://docs.standarddao.finance/protocol/definitions#pcv)through liquidity and reserve assets. We call our own liquidity [POL](https://docs.standarddao.finance/protocol/definitions#pol). POL ensures a market for exit liquidity to ensure trading and market operations while also protecting holders. Since Standard owns its own liquidity, it also receives fees earned from open market trades through the pairs held by the treasury. This adds another revenue stream for the protocol to bolster the underlying value of SDA.
+Standard is a decentralized treasury and financial ecosystem that allows people from around the globe to invest in projects that are meaningful and valuable to them and their families. The workflow includes the following steps:
 
-## What is Staking?
+* A community of Standard members proposes and decides on what they want to fund - for instance, a local solar power plant will provide a town with electricity. At the same time, the excess may be sold to generate revenue.
+* The participants fund the project and receive SDA (standard digital asset) tokens that give them voting power and the ability to be a member of the organization.
+* Standard uses the funds to carry out the project (purchase assets, fund development, etc.).
+* The assets and returns from the investment are accumulated by the treasury, increasing the number of assets managed by token holders (i.e., Standard members)
 
-Staking is one of the primary yield strategies for SDA holders. Stakers are able to stake buy either purchasing Staking is the primary value accrual strategy of Standard. Stakers stake their SDA on the Standard website to earn [rebase ](https://docs.standarddao.finance/protocol/definitions#pol)rewards. The rebase rewards come from the proceed from swap sales, and can vary based on the number of SDA staked in the protocol and the reward rate set by monetary policy.
+![](.gitbook/assets/0)
 
-Staking is a passive, long-term strategy. The increase in your stake of SDA translates into a constantly falling cost basis converging on zero. This means even if the market price of SDA drops below your initial purchase price, given a long enough staking period, the increase in your staked SDA balance should eventually outpace the fall in price.
+### **Participation in Standard** <a href="#_tyqk4ykbkm4b" id="_tyqk4ykbkm4b"></a>
 
-When you stake, you lock SDA and receive an equal amount of sSDA. Your sSDA balance rebases up automatically at the end of every epoch. sSDA is transferable and therefore composable with other DeFi protocols.
+There are two main strategies for market participants: staking and swapping. Stakers stake their SDA tokens in return for more SDA tokens (SDA tokens already purchased on a DEX, CEX), while swappers exchange their assets (e.g., DAI) in return for SDA tokens after a fixed vesting period (typically 5 days). The SDA tokens received after the fixed vesting period will be automatically staked for the investor.
 
-When you unstake, you burn sSDA and receive an equal amount of SDA. Unstaking means the user will forfeit the upcoming rebase reward. Note that the forfeited reward is only applicable to the unstaked amount; the remaining staked SDA (if any) will continue to receive rebase rewards.
+### Value to Holders <a href="#_e46tprct6p5d" id="_e46tprct6p5d"></a>
 
-## How Does the Treasury Grow?&#x20;
+#### **Staking**
 
-Growth of the treasury’s PCV is the primary drive for stakeholders in Standard. As the treasury grows in reserves and LPs, it increases the floor value of every SDA and also provides the opportunity to give off higher yields to stakers. More important though, growth of the treasury enables the protocol to increase its revenue from treasury assets alone and eventually provide a stabilized, fully backed yield. Standard’s treasury grows in a few ways:&#x20;
+The main benefit for stakers comes from supply growth. The protocol mints new SDA tokens from the treasury which are distributed to the stakers (not all minted SDA is allocated to the stakers). Thus, the gain for stakers will come from their auto-compounding balances, though price exposure remains an important consideration. If the increase in token balance outpaces the potential drop in price (due to inflation), stakers will make a profit.
 
-### Swaps&#x20;
+#### **Swapping**
 
-Swaps give the Standard the ability to lock in assets to its treasury. Offering swaps in stable assets contribute to increasing the stable backing of the treasury. Swaps offered in other assets add to the total value of the treasury and also the ability for the treasury to earn its own yield through POL.&#x20;
+The main benefit for swappers comes from price consistency. Swappers commit capital upfront based on a promised fixed return after a fixed vesting period in SDA tokens. Over this time, a percentage of the swap reward is released each day and automatically staked for the swapper, adding a compound factor to the initial yield received. The swapper's profit would depend on SDA price and staking APR throughout swap maturity. Swappers benefit from either a _rising_ or _static_ SDA price.
 
-### Liquidity Yields&#x20;
+#### **Membership**
 
-POL is one of the more useful types of assets held by the treasury since it is a mechanism to earn passive income through transaction fees. Owning the liquidity for SDA enables the Standard treasury to earn income for any transaction of the SDA token whether buying or selling. Eventually, Standard will own 100% of its liquidity earning all the fees much like a centralized exchange.&#x20;
-
-### Staking Reserve Assets (DeFi)&#x20;
-
-Reserve assets are single assets and do not earn passive yield like LPs. However, a variety of mechanisms may be employed in this case to put these assets to work as well, whether that be lending, validator staking (ETH 2.0), node staking (LINK superlinear staking TBD), or single asset staking on AMMs like Bancor. The benefit of building a treasury of Standard Digital Assets  is that these assets typically have the widest adoption across a variety of blockchains and good opportunities for secure yields.&#x20;
+Standard members gain access to ecosystem rewards as well as voting and proposal of mandates to support themselves and their communities. Membership benefits increase with increased activity in the platform and community.
 

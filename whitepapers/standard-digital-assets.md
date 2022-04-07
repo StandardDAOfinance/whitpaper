@@ -29,6 +29,18 @@ Standard digital assets are the ones that most people know of and use and have t
 * Creates buy in from maximallists when their asset is brought in as the standard,
 * Adds fuel to the flames of blockchain adoption by incubating new standard assets and funding development and innovation on a large scale.
 
+### Going Off the Gold Standard
+
+In August 15, 1971, President Richard Nixon took the US dollar off the “Gold Standard” with the intent of “...protect(ing) the position of the American dollar as a pillar of monetary stability around the world…”. Since then we have seen the value of the dollar plunge at an exponential rate compared to previous decades with unforeseen social and financial crises correlated to this event.
+
+![](<../.gitbook/assets/0 (1)>)
+
+![](../.gitbook/assets/1)
+
+![](<../.gitbook/assets/2 (1)>)
+
+![](<../.gitbook/assets/3 (1)>)
+
 ### An asset that has proven it is “Too Big to Fail” by showing staying power through bull and bear cycles <a href="#_64gwcvxpvkei" id="_64gwcvxpvkei"></a>
 
 In a traditional crypto bear market we see the majority assets plummet, some more than others while standard assets have less downside risk and greater potential to push back to all time high eventually. A good example of this is in 2017/18 when Bitcoin topped and we saw the entire market drop 80-99%. The assets that dropped the least were those that had the most confidence from long term holders. The assets that dropped the most were those that were newer, more speculative, and/or providing the least value. After the despair phase, it was standard assets such as Bitcoin and Ethereum that led the liquidity overall in the push back up into the new cycle. A similar scenario during economic recessions like the ‘08 financial crisis where the stock market sells off 40%+ while assets like gold not only maintain their value but sometimes increase in value as capital flows into the most secure assets. We see similar outcomes in gold during crypto bear markets as well which is what makes it a perfect non correlated asset to hold in any treasury.
