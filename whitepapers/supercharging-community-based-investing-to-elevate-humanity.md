@@ -62,20 +62,7 @@ In the long term, this system will be used to optimize for economic stability an
 
 ### **What is Standard?** <a href="#_xbrav6clw9y1" id="_xbrav6clw9y1"></a>
 
-Standard is the first diversified, community driven, decentralized treasury that holds Standard Assets, represented by a Standard Digital Asset ($SDA token). SDA token is the first Standard Digital Asset to provide asset-backed yields to its holders. Each SDA token is backed by a basket of assets that have been identified as Standard Assets in their given vertical (e.g., Gold, BTC, ETH, LINK, Real Estate, Energy, etc.). Four key features define Standard Assets:
-
-1. An asset that has proven it is “Too Big to Fail” by showing staying power through bull and bear cycles.
-2. Top asset in a given vertical by utility and/or market cap.
-3. Shows consistent growth and adoption over time.
-4. An asset that meets our criteria for contributing to the public good by supporting positive ecological, social, and decentralized governance impacts.
-
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FFKEwqMLk1B9F6ce6bK6j%2Fuploads%2FS7TSlLtDsognS6FyVe8l%2F2?alt=media)
-
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FFKEwqMLk1B9F6ce6bK6j%2Fuploads%2Fvq3cw6S99Ns3vRgBbPca%2F3?alt=media)
-
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FFKEwqMLk1B9F6ce6bK6j%2Fuploads%2Fv0Btf8JAl6g3PJzuyJ2A%2F1?alt=media)
-
-![](<../.gitbook/assets/image (8).png>)
+Standard is the first diversified, community driven, decentralized treasury serving a mandate towards community driven impact. Assets held in the Standard treasury are Standard Assets, built on the fundamental principles of the [Standard Digital Asset](https://docs.standarddao.finance/whitepaper/standard-digital-assets) framework. The key differentiator with Standard is that the assets taken in are put to work in unique ways that are largely yet to be seen in the crypto market today in that they serve the fundamental growth and development of communities and individuals driven by Standard members.
 
 ### **Operating principles** <a href="#_kfh2on5n7sn0" id="_kfh2on5n7sn0"></a>
 

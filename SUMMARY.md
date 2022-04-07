@@ -13,10 +13,10 @@
 * [Contracts](protocol/contracts.md)
 * [Definitions](protocol/definitions.md)
 
-## Whitepaper
+## Whitepapers
 
-* [Supercharging Community Based Investing to Elevate Humanity](whitepaper/supercharging-community-based-investing-to-elevate-humanity.md)
-* [Standard Digital Assets](whitepaper/standard-digital-assets.md)
+* [Supercharging Community Based Investing to Elevate Humanity](whitepapers/supercharging-community-based-investing-to-elevate-humanity.md)
+* [Standard Digital Assets](whitepapers/standard-digital-assets.md)
 
 ## Ecosystem Growth
 
