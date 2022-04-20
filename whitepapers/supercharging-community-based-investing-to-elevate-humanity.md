@@ -435,15 +435,25 @@ Different levels of NFT will correlate to certain positions in the community, so
 
 ### Vesting Schedule <a href="#_9xhzn6n92az8" id="_9xhzn6n92az8"></a>
 
-pSDA tokens have 5 vesting periods:
+Vesting Schedule pSDA tokens have 5 vesting periods:&#x20;
 
-1. 10% unlock after 18 months
-2. 22.5% unlocked @ 500M Circulating supply
-3. 22.5% unlocked @ 1B Circulating supply
-4. 22.5% unlocked @ 1.5B Circulating supply
-5. 22.5% unlocked @ 2B Circulating supply
+10% unlock after 18 months of official SDA token distribution&#x20;
+
+22.5% unlocked @ 500M Circulating supply&#x20;
+
+22.5% unlocked @ 1B Circulating supply&#x20;
+
+22.5% unlocked @ 1.5B Circulating supply&#x20;
+
+22.5% unlocked @ 2B Circulating supply
 
 The offering is for pSDA, which is a precursor derivative of SDA; it gives the holder the option to mint SDA by burning pSDA and providing the intrinsic value of SDA (1 Dai = 1 USD). For example, a team member would provide 1 DAI and 1pSDA to mint 1 SDA.
+
+The foregoing offering terms and distribution schedule may be altered, amended and/or supplemented by the Token Issuer at any time in our sole discretion without notice.
+
+No token will be unlocked prior to the 18 month unlock period.
+
+The Offering may be extended, withdrawn, or closed at any time in our sole discretion without notice.
 
 ### Supply <a href="#_axunl2cr29yc" id="_axunl2cr29yc"></a>
 
