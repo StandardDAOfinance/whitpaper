@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Diving into Standard Protocol](diving-into-standard-protocol.md)
+* [The Standard Solution](the-standard-solution.md)
 * [Partnerships, DAO, Roadmap](partnerships-and-roadmap.md)
 * [FAQs](faqs.md)
 
