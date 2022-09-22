@@ -32,24 +32,6 @@ _swapPayoutlpSwap = marketValuelpToken / swapPrice_&#x20;
 
 For liquidity swaps, the market value of the LP tokens supplied by the swapper is used to determine the swap payout. For example, if a user supplies 0.001 SDA-ETH LP token which is valued at 1000 DAI at the time of swapping, and the swap price is 250 DAI, the user will be entitled 4 SDA.&#x20;
 
-## SDA Supply&#x20;
-
-_SDAsupplyGrowth = SDAStakers + SDASwappers + SDADAO ​_&#x20;
-
-SDA supply does not have a hard cap. Its supply increases when: SDA is minted and distributed to the stakers. SDA is minted for the swapper. This happens whenever someone purchases a swap. SDA is minted for the DAO. This happens whenever someone purchases a swap. The DAO gets the same number of SDA as the swapper.&#x20;
-
-_SDAstakers = SDAtotalSupply ∗ rewardRate_&#x20;
-
-At the end of each epoch, the treasury mints SDA at a set reward rate. These SDA will be distributed to all the stakers in the protocol.
-
-_SDAswappers = swapPayout_
-
-Whenever someone purchases a swap, a set number of SDA is minted and staked while the swap purchaser will receive sSDA. These sSDA will not be released to the swapper all at once - they are vested to the swapper linearly over time.&#x20;
-
-_SDADAO = SDAswappers ​_&#x20;
-
-The DAO receives the same amount of SDA as the swapper. This represents the DAO profit.&#x20;
-
 ## Backing per SDA&#x20;
 
 _SDAbacking = treasuryBalancestablecoin + treasuryBalanceotherAssets ​_&#x20;
