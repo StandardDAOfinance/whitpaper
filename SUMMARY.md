@@ -1,18 +1,20 @@
 # Table of contents
 
+## Overview of Standard&#x20;
+
 * [Introduction](README.md)
-* [The Standard Solution](diving-into-standard-protocol.md)
-* [The Standard Economy Ecosystem](the-standard-economy-ecosystem.md)
-* [Standard Tokenomics](standard-tokenomics.md)
-* [Standard Protocol and Technology Stack](standard-protocol-and-technology-stack.md)
-* [Standard DAO Governance](standard-dao-governance.md)
-* [Partnerships](partnerships.md)
-* [Regulatory Compliance](regulatory-compliance.md)
-* [Roadmap](roadmap.md)
-* [FAQs](faqs.md)
+* [The Standard Solution](overview-of-standard/the-standard-solution.md)
+* [The Standard Economy Ecosystem](overview-of-standard/the-standard-economy-ecosystem.md)
+* [Standard DAO Governance](overview-of-standard/standard-dao-governance.md)
+* [Partnerships](overview-of-standard/partnerships.md)
+* [Regulatory Compliance](overview-of-standard/regulatory-compliance.md)
+* [Roadmap](overview-of-standard/roadmap.md)
+* [FAQs](overview-of-standard/faqs.md)
 
 ## Protocol
 
+* [Standard Protocol and Technology Stack](protocol/standard-protocol-and-technology-stack.md)
+* [Standard Tokenomics](protocol/standard-tokenomics.md)
 * [Protocol Mechanics](protocol/protocol-mechanics.md)
 * [Equations](protocol/equations.md)
 * [Contracts](protocol/contracts.md)
@@ -20,7 +22,6 @@
 
 ## Whitepapers
 
-* [Supercharging Community Based Investing to Elevate Humanity](whitepapers/supercharging-community-based-investing-to-elevate-humanity.md)
 * [Standard Digital Assets](whitepapers/standard-digital-assets.md)
 
 ## Ecosystem Growth
