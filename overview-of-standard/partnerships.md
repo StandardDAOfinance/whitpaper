@@ -74,35 +74,11 @@ A Standard Digital Asset is defined by the number and diversity of the Standard 
 
 Standard will bring on industry leaders either into the DAO or as partners to the DAO to help form and execute plans to accomplish these goals. Over time, we expect to see Standard being a backbone for all major industries dedicated to a culture of inclusion, community, and innovation as all incentives will align through Standard.
 
-### We Love Maxis <a href="#_yatzsszhue7t" id="_yatzsszhue7t"></a>
-
-Maximalism for a certain protocol or technology has gotten a bad rap. It starts when someone goes deep down a rabbit hole researching a technology that connects all the dots and is THE necessary thing to bring forward the fourth industrial revolution. If you’ve gotten this far in the docs, then you probably know exactly what we mean. Standard was not created to compete with other projects in the blockchain space. On the contrary we too are ‘maxis’ for the best projects with the strongest fundamentals and the greatest network effect so we plan to use these assets as a reserve basis for our treasury.
-
-That’s why we created SDA tokenomics in a way that enables us to bring together all of the strongest communities and figure out how to accelerate the adoption of the best projects in a decentralized ecosystem where all values and economic incentives align. Blockchain is nothing without community and we believe that Standard will have the strongest community in the space.
-
 ### NFT Community Partnerships <a href="#_mt31g4bqvd7d" id="_mt31g4bqvd7d"></a>
 
-Standard members will receive a membership NFT that denotes membership in the platform and has gamified utility within the Standard ecosystem. Not only will the NFT enable holders to vote in decisions on the future DAOgovernance and development, but it will open up potential yield opportunities and discounted services in the defi and business services spaces.
+Standard members will receive a membership NFT that denotes membership in the platform and has gamified utility within the Standard ecosystem. Not only will the NFT enable holders to vote in decisions on the future DAO governance and development, but it will open up potential yield opportunities and discounted services in the DeFi and business services spaces.
 
 We will also extend the ability to mint one of these Standard membership NFTs to strong communities outside of Standard that align with the values and mission of the organization (e.g., ENS domains). This will bring in key industry players as potential partners with vested interest in the success of the project. This collaboration will extend to collaborative mints with partner projects and shared revenues between protocols that will support all protocols and members of such communities involved.
-
-## DAO Governance <a href="#_i0o342pb5y8w" id="_i0o342pb5y8w"></a>
-
-Standard will be legally incorporated as a Decentralized Autonomous Organization. Holders of Standard membership will be entitled to vote according to governance frameworks to be determined as a community.
-
-### Core DAO Governance <a href="#_nc50kdlby91a" id="_nc50kdlby91a"></a>
-
-DAO Members will be able to participate in creating proposals, voting on proposals, and voting on mandates which could affect the Standard project in a considerable way. Rules for participation in certain decisions will be determined by Community Agreements, and active involvement may vary depending on the proposal type and a risk assessment. Proposals may range from simple membership rewards ideas, to a substantial change in how we are managing the treasury as a whole. Members will also contribute to community engagement on Discord and various social media platforms. DAO members are crucial to keeping SDA relevant and successful as a thriving collaborative enterprise.
-
-### DAO Scaling Model <a href="#_t6hdy0w078mw" id="_t6hdy0w078mw"></a>
-
-The goal is to scale a DAO in the most efficient and cost-effective way while attracting and building the highest quality talent pool for the DAO. This is done via a sub-dao and venture model that empowers small autonomous units working within a larger strategic structure.
-
-Standard will consist of a number of Houses, guilds, and even independent ventures operating autonomously and collaboratively within the larger Standard ecosystem.
-
-We will build a streamlined flow to onboard contributors and upskill contributors from novice to expert and at the same time grow their commitment as a DAO member through these various groups. We will provide a clear roadmap for members to move from being a contributor to a Core Team and even creation of their own sub-DAO or venture under Standard’s ecosystem.
-
-Each Member Journey within the DAO is underpinned by completing a large scale project that is too large to comprehend for any small group and time frame. This is the overarching framework of building a DAO that has the potential to onboard passionate community members with the ability to develop the vision of Standard for its community members and future subDAOs created.
 
 ### &#x20;<a href="#_p31ocnse8lz8" id="_p31ocnse8lz8"></a>
 
