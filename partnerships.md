@@ -1,12 +1,54 @@
-# Partnerships, DAO, Roadmap
+---
+description: Incentivizing growth through partnerships, interoperability and integration
+---
+
+# Partnerships
 
 ## **Partnerships** <a href="#_qrm76cfhw90o" id="_qrm76cfhw90o"></a>
 
-Intrinsic to the core structure of Standard is its ability to integrate with and incentivise partnerships with other projects. Given the nature and vision of Standard, we see Standard and the SDA token as the center of an entire ecosystem of development. It does this because it is a protocol that brings in the most robust assets across all major markets (eventually) solidifying security, trust, and a foundation for which to build upon for years to come. At the start we see these partnerships growing within the blockchain ecosystem but then expanding across traditional and retail markets as we build upon the public goods sectors providing robust ecosystems for humans to operate.
+Intrinsic to the core structure of Standard is its ability to incentivize growth through partnerships, interoperability, and integration with other projects. Given the nature and vision of Standard, we see Standard and the SDA token as the center of an entire ecosystem of development. The Standard protocol brings in the most robust assets across all major markets thus solidifying security, trust, and a foundation upon which to build for years to come. These partnerships extend both within the blockchain ecosystem and across traditional and retail markets as we build robust ecosystems for humans to operate collectively.&#x20;
+
+### Business Partners&#x20;
+
+From the outset, Standard has taken a partnership-first approach to building the ecosystem. In the various Standard Economy verticals we are partnering with multiple different businesses to form mutually supportive business relationships.&#x20;
+
+### Standard Protocol and Tech
+
+The core partner on the Standard Protocol and Technology enabling the three core verticals is Solliance. However, we are forming additional specialist partnerships in the Web3 technology and NFTs space.
+
+### Supercharging Digital Assets&#x20;
+
+Partners In our Supercharging Digital Assets Economy vertical, we are currently partnering with communities that sell NFTs, DeFi protocols with structured products to offer, and with NFT marketplaces, and more. The core revenue in this vertical will be from providing technology services to projects on implementing the NUT technology to add utility features to NFTs. This includes NFT creators implementing it into their collection or structured product and services providers seeking to implement NFT technology as a gateway into their product ecosystems.
+
+We have also formed a key strategic partnership with leading Ethereum scaling solution provider Polygon who have an increasing focus on the NFT and Web3 gaming market.
+
+### Scaling Network Effects&#x20;
+
+Partners In our Scaling Network Effects Economy, we are actively partnering with various companies across sectors including political data, media, NFTs, community engagement, and social innovation. communities to build engaged social networks.
+
+### Securing Web3&#x20;
+
+Infrastructure Partners In our Securing Web3 infrastructure Economy we are actively partnering with decentralized validation node providers to power the Distributed Delegation Network so we ensure a diversified distribution of assets across the available decentralized validation service providers.&#x20;
+
+### Advisory Partners&#x20;
+
+Our advisor community is distributed across the globe and includes over 1800 contributors and a growing network of 30+ advisors and partners across a number of sectors from crypto, Web3 and tokenization, to finance and Fin-tech, to sustainable building, and social enterprise.
+
+If you are interested in joining the growing ecosystem, please contact to Build With Us.
+
+**Some of our notable partners include:**
+
+****
+
+<figure><img src="https://lh3.googleusercontent.com/uSr_rSpw_ywXCf7qMEVG5dDVkzsch7_j5OdWC4EA2jwfMrXkg7iFxzxGOgS-nRPRlYU6I0657WeVif6Rkxhqd4JzF_nKj8cJKlfbU9bNcaXWymFqvACaBhnVj7dSY8IbTsYerPjqLY5kV5ut3PpBHdkNdl77fCF6ptqi9jvQK8I9Xoh0NFKNXtJRXQ" alt=""><figcaption></figcaption></figure>
+
+## We Love Maxis&#x20;
+
+Maximalism for a certain protocol or technology has gotten a bad rap. It starts when someone goes deep down a rabbit hole researching a technology that connects all the dots and is THE necessary thing to bring forward the fourth industrial revolution. If you’ve gotten this far in the docs, then you probably know exactly what we mean. Standard was not created to compete with other projects in the blockchain space. On the contrary, we too are ‘maxis’ for the best projects with the strongest fundamentals and the greatest network effect so we plan to use these assets as a reserve basis for our treasury. We are also actively forming partnerships with layer one and layer two blockchains, with other DAOs, with NFT communities, and with companies looking to enter the Web3 space with the aim of creating loyal brand communities. Intrinsic to the core structure of Standard is its ability to integrate with and incentivize partnerships with other projects.
 
 ### Venture Model <a href="#_gupz557gubq0" id="_gupz557gubq0"></a>
 
-By offering swaps for projects, Standard creates a mechanism to lock that project’s asset in its treasury without the ability to sell it in the future. This creates an intrinsic floor for that asset adding confidence and liquidity, both of which decrease volatility over time. By offering swaps for Standard Assets, we have the ability to bring in some of the largest and most robust communities in the blockchain space from the start. We see this approach having a network effect, providing a bridge for communities that have traditionally been at odds with each other.
+By offering swaps for projects, Standard creates a mechanism to lock that project’s asset in its treasury without the ability to sell it in the future. This creates an intrinsic floor for that asset adding confidence and liquidity, both of which decrease volatility over time. By offering swaps for Standard Assets, we have the ability to bring in some of the largest and most robust communities in the blockchain space from the start. We see this approach as having a network effect, providing a bridge for communities that have traditionally been at odds with each other.
 
 ### Standard Venture Partnerships <a href="#_3zbacht8wdme" id="_3zbacht8wdme"></a>
 
@@ -62,91 +104,7 @@ We will build a streamlined flow to onboard contributors and upskill contributor
 
 Each Member Journey within the DAO is underpinned by completing a large scale project that is too large to comprehend for any small group and time frame. This is the overarching framework of building a DAO that has the potential to onboard passionate community members with the ability to develop the vision of Standard for its community members and future subDAOs created.
 
-### Standard DAO Houses <a href="#_p31ocnse8lz8" id="_p31ocnse8lz8"></a>
+### &#x20;<a href="#_p31ocnse8lz8" id="_p31ocnse8lz8"></a>
 
-Standard will curate and launch various Sub-DAO projects called ‘Houses’. These Houses are intended as permanent sub-dao business units within the DAO working on specific areas of the DAO’s core business. These houses will employ committed DAO members according to specialty fields. The Houses will also provide in-house services at discounted rates to mandates and projects being incubated within the Standard Ecosystem, as well as external consulting.
-
-Below is the potential Member journey to join a Standard House:
-
-Contributor → Guild Member → House Member
-
-Houses already planned as making up the core for Standard include:
-
-* Publishing House
-* Development House
-* Asset Management House
-* Real Estate House
-* Energy House
-* Mineral House
-* Technology House
-
-### Standard Guilds <a href="#_v3vg98r1zgn8" id="_v3vg98r1zgn8"></a>
-
-Contributor → Guild Member → House Member → Core Team Member
-
-Standard will also found a number of guilds for members to conduct autonomous work towards core Standard goals. The guilds will form around certain work streams or practices. Guilds are less formal than Houses and members can be more casual and invest less time and energy. However, guild members will be able to bid on ‘bounties’ for work to be done as proposed by certain Houses or the core team. Guild members can make a proposal for a piece of work to be funded by Standard to a House or to the core team. Planned guilds include:
-
-* Translators Guild
-* Research Guild
-* Marketing and Communications Guild
-* Education Guild
-* Developers Guild
-* Design Guild
-* AudioVisual Guild
-* Analytics Guild
-* Operations Guild
-* Writers Guild
-* Technology Guild
-
-### Incubating Standard Ventures <a href="#_8h6ycxvp8lob" id="_8h6ycxvp8lob"></a>
-
-There is also potential for independent external organizations to be surfaced from within the DAO ecosystem itself. The flow for an idea to become an independent venture will be to move from an idea stage, to a working group formed by the people most committed to the idea, then through to venture would be as follows:
-
-Idea Phase → Working Group → Proto-Venture → Ventures
-
-An informal working group can be catalyzed by any Standard member on any topic or mandate. If sufficient energy emerges from the network this group may apply to be evolved into a ‘proto-venture’ to explore potential to create a venture. If this sub-dao project appears to be successful and sustainable, it may decide to create its own legal wrapper as a separate venture within the Standard ecosystem. It can apply for funding to achieve this phase.
-
-There are standard agreements for ventures that outline the guidelines for use of Standard branding and terms of access to resources by ventures which must be met at all times.
-
-## Roadmap <a href="#_xnnqplonagmi" id="_xnnqplonagmi"></a>
-
-### Phase 1 <a href="#_4p3ti2xhdn3" id="_4p3ti2xhdn3"></a>
-
-* Strategic partnerships
-* Advisor onboarding
-* Community growth
-* Regulatory Playbook
-* Legal structure
-* Grant submissions
-* Presale
-
-### Phase 2 <a href="#_mi3a58udru8p" id="_mi3a58udru8p"></a>
-
-* Protocol development
-* Audits
-* DAO creation, onboarding, and incentives
-* Growth funding
-* Marketing / Media campaign
-* Regulatory Playbook Launch
-* DAO growth to 10,000+ members
-* Standard business partners
-
-### Phase 3 <a href="#_mxgq28vg6wp5" id="_mxgq28vg6wp5"></a>
-
-* Protocol launch (Bonds for impact)
-* International marketplace launch
-* Add Multisig signers
-* DAO growth to 50,000+ members
-* Media campaign
-* DeFi ecosystem partnerships
-* Infrastructure partnerships
-* Municipal partnerships
-* $100M TVL
-
-### Phase 4 <a href="#_fxg91oxepv8l" id="_fxg91oxepv8l"></a>
-
-* Structured products
-* Institutional partnerships
-* US marketplace launch
-* Lending/Microlending
+## &#x20;<a href="#_xnnqplonagmi" id="_xnnqplonagmi"></a>
 
