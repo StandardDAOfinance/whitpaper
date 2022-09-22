@@ -4,6 +4,7 @@
 * [The Standard Solution](diving-into-standard-protocol.md)
 * [The Standard Economy Ecosystem](the-standard-economy-ecosystem.md)
 * [Standard Tokenomics](standard-tokenomics.md)
+* [Standard Protocol and Technology Stack](standard-protocol-and-technology-stack.md)
 * [Partnerships, DAO, Roadmap](partnerships-and-roadmap.md)
 * [FAQs](faqs.md)
 

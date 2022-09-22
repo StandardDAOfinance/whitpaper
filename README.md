@@ -35,31 +35,3 @@ New Web3 technology and social innovation approaches enable us to achieve greate
 
 
 In the same way as internet adoption, the development of core blockchain infrastructure that enables applications to operate on Web3 has contributed to the growth of blockchain user adoption over time. The rapid growth in infrastructure and tooling has enabled exponentially increasing opportunities for citizens and organizations alike to participate in building this new internet and be rewarded financially in the process.
-
-
-
-## DAO Structure
-
-Standard DAO is operating as a Decentralized Autonomous Organization (DAO). The core mission of the company is to manage the Standard protocol and the native token SDA, and to return revenue to investors. All equity investors in the SDA token will have the opportunity to have a voice in the governance of the company and protocol.
-
-**Standard DAO is designed from the ground up to include the following core features:**
-
-&#x20;The Standard Economy Ecosystem
-
-1. The Standard Treasury with Secure treasury management;&#x20;
-2. The native token - Standard Digital Asset (SDA);&#x20;
-3.  The Standard Protocol - A secure technology infrastructure layer;&#x20;
-
-    and A Deliberative Governance structure.&#x20;
-
-### Why a DAO?&#x20;
-
-The DAO framework provides us with a new and uniquely transformative ability to scale and include communities in the mission of an organization. As Anthony Cabraal of Better Work Together says, “effective decentralized organizations can work together as a system, as a platform for collective ambition”. This is done by enabling the following elements:
-
-1. A shared mission - One that everyone is on board with and can be understood easily.
-2. A group of high-agency people - Independent, autonomous people galvanized together by a shared sense of purpose and identity.
-3. Support to build ventures - By actively encouraging initiative, the collective capacity of the group to solve problems, grow together and create impact dramatically increases.
-4. A central structural and finance commons - a transparent, well organized entity that manages common assets, brand identity, collects and redistributes common resources and interfaces with the legal world.
-5. Space for relationships and weaving social fabric. This fabric of community, connection and belonging is hard to measure and often invisible but it is fundamentally critical. Trust is a secret weapon.
-
-We are bringing all of these elements together in a seamless package powered by the Standard Protocol. The Protocol provides the tools for both Standard and our partners to include community members in more meaningful ways in driving a collective mission.
