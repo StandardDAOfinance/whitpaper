@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [The Standard Solution](the-standard-solution.md)
+* [The Standard Solution](diving-into-standard-protocol.md)
+* [The Standard Economy Ecosystem](the-standard-economy-ecosystem.md)
+* [Standard Tokenomics](standard-tokenomics.md)
 * [Partnerships, DAO, Roadmap](partnerships-and-roadmap.md)
 * [FAQs](faqs.md)
 
