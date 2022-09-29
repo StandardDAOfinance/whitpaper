@@ -18,7 +18,7 @@ The Supercharging Assets Economy enables creators, communities and holders to Su
 
 Supercharging Digital Assets in this context refers to the process of upgrading the real-world utility of digital and real-world assets through Utility NFT technology which unlocks a value and benefits for assets and holders respectively. This enables any real world or digital asset to become a tool for access to a range of additional utility features, and products and services from Standard and partners in the technology ecosystem. Like IOS or Windows, our approach leverages a ‘Master Token’ to provide future-compatibility and upgradeability to digital assets. Each enabled Master Token updates as new functions and interoperability features are created, giving NFT and digital asset holders all the latest utility without needing to buy a new token or integrate with a new protocol.&#x20;
 
-This is primarily a technology provision and business-to-business revenue stream, as we are partnering with leading NFT creators, marketplaces and companies to add utility to their NFT collections. This product also connects to the Securing Web3 economy as one revenue stream will come from selling Yield-enabled Utility NFTs known as Yield Utility Tokens or YUT. An indicative yield rate is estimated to be between 3-10% APY on all Ethereum being used for this purpose.
+This is primarily a technology provision and business-to-business revenue stream, as we are partnering with leading NFT creators, marketplaces, and companies to add utility to their NFT collections. This product also connects to the Securing Web3 economy as one revenue stream will come from selling Yield-enabled Utility NFTs known as Yield Utility Tokens or YUT. An indicative yield rate is estimated to be between 3-10% APY on all Ethereum being used for this purpose.
 
 #### Go Deeper: Supercharging Digital Assets whitepaper&#x20;
 
@@ -38,13 +38,13 @@ Improvements in speed, cost, security, and scalability are causing Web2 applicat
 
 Standard invests in the adoption of the 3rd generation of the internet by securing the infrastructure of leading blockchains. Network operators (validators) are required to run Web3. We help partners and our community to capture sustainable revenues by enabling fundamental blockchain infrastructure.
 
-Standard’s proprietary Distributed Delegation Network (DDN) is designed to capture sustainable revenue from Web3. The DDN deploys Standard’s treasury assets toward fundamental infrastructure to Web3 that provides vital resources to network operators. We earn revenue by ‘staking' our treasury assets (e.g. Ethereum) towards token enabled networks that scale Web3 (e.g., validation, indexing, oracles, storage). This will provide a relatively stable and safe revenue stream for the Standard protocol and its token holders that grows as Web3 scales and increases in adoption.
+Standard’s proprietary Distributed Delegation Network (DDN) is designed to captur- sustainable revenue from Web3. The DDN deploys Standard’s treasury assets toward fundamental infrastructure to Web3 that provides vital resources to network operators. We earn revenue by ‘staking' our treasury assets (e.g. Ethereum) towards token-enabled networks that scale Web3 (e.g., validation, indexing, oracles, storage). This will provide a relatively stable and safe revenue stream for the Standard protocol and its token holders that grows as Web3 scales and increases in adoption.
 
 The ultimate aim of the DDN is to work towards maximal allocation of Standard’s treasury assets prioritizing decentralization of the network and capital efficiency. Within this model, Standard token holders are to stake their tokens to delegate an equivalent amount of Standard’s treasury assets towards operators using a version of the Vesting Escrow (VE) model adopted from Curve Protocol.
 
 This is the base layer in the Standard Ecosystem vertically integrated stack, enabling Standard token holders to benefit through the growth and adoption of Web3.
 
-Go Deeper: Securing Blockchain Infrastructure Whitepaper
+**Go Deeper: Securing Blockchain Infrastructure Whitepaper**
 
 ### **** <a href="#_xbrav6clw9y1" id="_xbrav6clw9y1"></a>
 
